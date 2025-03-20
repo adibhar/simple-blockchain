@@ -1,2 +1,2 @@
 # simple-blockchain
-Simple blockchain creating for learning purposes
+Simple blockchain/encryption projects for learning purposes

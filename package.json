@@ -1,0 +1,15 @@
+{
+    "name": "test-blockchain-projects",
+    "version": "1.0.0",
+    "description": "Blockchain and encryption programs",
+    
+    "scripts": {
+      "start-blockchain": "node simplecoin.js",
+      "coin": "node simplecoin.js",
+      "start-encrypter": "node fileEncryption.js",
+      "encrypt": "node fileEncryption.js"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "abhar"
+  }
