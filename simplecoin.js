@@ -7,7 +7,7 @@ class Block {
     this.data = data;
     this.prevHash = prevHash;
     this.hash = this.hashFunction();
-    this.nonce = 0; // used to force the hash to meet the standard of having enough 3s (as many as difficulty is set to) as needed
+    this.nonce = 0; // used to force the hash to meet the standard of having enough 0s (as many as difficulty is set to) as needed
   }
 
   hashFunction(){
